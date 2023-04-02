@@ -57,14 +57,6 @@ $oeuvres = [
         'description' => 'Integer in nisl posuere, pulvinar ex ac, tincidunt risus. Nullam vel lorem et leo dignissim accumsan. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tempor, magna non consectetur dapibus, est libero iaculis lacus, eget semper turpis orci vitae felis. Fusce eget molestie.'
     ],
     [
-        'id'=> 1,
-        'src'=> 'img/clark-van-der-beken.png',
-        'alt'=> 'Dodomu',
-        'title'=> 'Dodomu',
-        'author'=> 'Mia Tozerski',
-        'description' => 'Mia Tozerski est une artiste peintre ukrainienne réfugiée de la guerre. Sur cette œuvre, Dodomu ("domicile" en ukrainien), elle nous montre la tristesse du peuple ukrainien qu\'elle partage, ayant elle-même dû quitter son foyer. L\'œuvre évoque le drapeau liquéfié d\'une Ukraine en souffrance, pleurant la mort de ses compatriotes. Ce travail chargé d\'émotion est le symbole d\'un événement qui marquera l\'Histoire. Cette peinture à l\'acrylique rayonne grâce à son fond lisse et ses mélanges de couleurs éclatantes.'
-    ],
-    [
         'id'=> 8,
         'src'=> 'img/steve-johnson-6.png',
         'alt'=> 'Blast from the past',
